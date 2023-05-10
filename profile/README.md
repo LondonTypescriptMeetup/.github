@@ -5,7 +5,7 @@ This is the repository for the London Typescript Meetup group. We use this repos
 ## Events 📅
 
 We usually run events every quarter. We have a [Meetup page](https://www.meetup.com/London-Typescript-Meetup/) where you can find out about upcoming events and RSVP.
-If you are interested in speaking at one of our events, please raise an issue [here](
+If you are interested in speaking at one of our events, [please raise an issue here](
     https://github.com/LondonTypescriptMeetup/speakers/)
 
 ## Sponsors 🎉
@@ -15,7 +15,7 @@ Public markets were created to allow everyone to invest in and own companies the
 [Check out their careers page](https://primarybid.com/careers/).
 
 
-We are always looking for sponsors to host and provide refreshments for our events. If you are interested in sponsoring us, please get in touch with us by raising an issue [here](https://github.com/LondonTypescriptMeetup/sponsors/issues/new).
+We are always looking for sponsors to host and provide refreshments for our events. If you are interested in sponsoring us, please get in touch with us by [raising an issue here](https://github.com/LondonTypescriptMeetup/sponsors/issues/new).
 
 ## Past Sponsors 
 Thank you to:
