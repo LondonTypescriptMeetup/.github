@@ -1,4 +1,4 @@
-# London Typescript Meetup
+# London Typescript Meetup <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" height="25px">
 
 This is the repository for the London Typescript Meetup group. We use this repository to organise our events and to share resources.
 
