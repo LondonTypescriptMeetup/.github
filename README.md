@@ -1,2 +1,0 @@
-# .github
-London Typescript Meetup
